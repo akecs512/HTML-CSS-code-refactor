@@ -17,7 +17,7 @@ This allows website to easier read the page for people with disabilities.
 I refactored the starter code by replacing the div elements with more readable elemenets such as header, main, and section. I also retitled the page and made images alt accessible. 
 
 ## Usage
-[Horiseon Website](https://akecs512.github.io/Module-Challenge-1/Develop/index.html)
+[[Horiseon Website](https://akecs512.github.io/Module-Challenge-1/Develop/index.html)](https://akecs512.github.io/HTML-CSS-code-refactor/)
 
 ![Horiseon Website](./Develop/assets/images/Horiseon%20Marketing.png)
 
